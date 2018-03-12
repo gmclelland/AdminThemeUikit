@@ -13868,7 +13868,7 @@ a.tooltip:hover {
 .PageList .PageListActions,
 .PageList .PageListerActions {
   position: relative;
-  top: -1px;
+  top: -2px;
   padding-left: 0;
   line-height: 1.4;
 }
